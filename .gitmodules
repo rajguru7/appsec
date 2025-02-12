@@ -1,3 +1,12 @@
 [submodule "nyu/assignments/appsec-homework-1-rajguru7"]
 	path = nyu/assignments/appsec-homework-1-rajguru7
 	url = git@github.com:NYUAppSec/appsec-homework-1-rajguru7.git
+[submodule "nyu/assignments/appsec-homework-2-rajguru7"]
+	path = nyu/assignments/appsec-homework-2-rajguru7
+	url = git@github.com:NYUAppSec/appsec-homework-2-rajguru7.git
+[submodule "nyu/assignments/appsec-homework-3-rajguru7"]
+	path = nyu/assignments/appsec-homework-3-rajguru7
+	url = git@github.com:NYUAppSec/appsec-homework-3-rajguru7.git
+[submodule "nyu/assignments/appsec-homework-4-rajguru7"]
+	path = nyu/assignments/appsec-homework-4-rajguru7
+	url = git@github.com:NYUAppSec/appsec-homework-4-rajguru7.git
